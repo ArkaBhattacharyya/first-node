@@ -1,0 +1,23 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "This is my first Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/ArkaBhattacharyya/first-node)"
+  },
+  "keywords": [
+    "First",
+    "Node"
+  ],
+  "author": "Arka Bhattacharyya",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.19"
+  }
+}
